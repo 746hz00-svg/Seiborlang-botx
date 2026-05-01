@@ -1,0 +1,6 @@
+{
+  "name": "BotX PandAI Pro",
+  "description": "A high-end, digital noir AI assistant inspired by PandAI, featuring a signature black-brown pixel aesthetic and advanced Gemini integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Chat", "Immersive UI"]
+}
